@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramcharanyadav Myla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **AI-ML**
+- 🌱 I’m currently learning **Data Analyst**
 
 - 💬 Ask me about **Html,css,bootstrap,mysql,python**
 
